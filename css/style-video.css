@@ -1,0 +1,70 @@
+ .card {
+	width: 100%;
+	height: 100%;
+	padding-top: 15px;
+}
+
+.row-video {
+	width: 85%;
+	height: 50%;
+	padding: 15px;
+}
+
+.row-vimeo {
+	width: 640px;
+	height: 360px;
+}
+
+.button_slide {
+	width: 100%;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.btn {
+	width: 200px;
+	border-radius: 30px;
+}
+
+.btn-default {
+	color: #fefefe;
+	background-color: #222222;
+	border-color:  #386686;
+}
+
+.btn-default:active:hover {
+	color: #386686;
+	background-color: rgba(50, 67, 86, 0.33);
+	border-color: #386686;
+}
+
+.btn-default:hover {
+	color: #386686;
+	background-color: rgba(50, 67, 86, 0.33);
+	border-color: #386686;
+}
+
+.btn-default:active {
+	color: #386686;
+	background-color: rgba(50, 67, 86, 0.33);
+	border-color: #386686;
+}
+
+.btn-default:focus {
+	color: #386686;
+	background-color: rgba(50, 67, 86, 0.33);
+	border-color: #386686;
+}
+
+.slide {
+	font-size: 50px;
+	border-color: 0;
+}
+
+.additional {
+	display: none;
+}
+
+.embed-container {
+	padding-top: 30px;
+}

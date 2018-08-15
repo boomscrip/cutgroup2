@@ -1,0 +1,20 @@
+.h1-slider {
+	border-bottom: 1px solid #ccc;
+	padding: 0 0 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.carousel-inner > .item > img {
+	width: 100%;
+	height: 20%;
+
+}
+
+p {
+	color: #fefefe;
+	font-size: 15px;
+}
+
+.slider-row {
+	padding-top: 20px;
+}

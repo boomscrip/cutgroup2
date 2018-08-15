@@ -1,0 +1,29 @@
+h2 {
+	font-size: 23px;
+	color: #fefefe;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.p_card {
+	color: #fefefe;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.Email {
+	font-size: 23px;
+	color: #fefefe;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.text-mail {
+	display: inline-block;
+}
+
+.link-mail {
+	display: inline-block;
+	padding-left: 15px;
+}
+
+.mail-card {
+	margin-top: 50px;
+}

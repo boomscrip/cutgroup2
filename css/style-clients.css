@@ -1,0 +1,39 @@
+.card img {
+	width: 100%;
+	margin-left: 10px;
+	padding-top: 30px;
+}
+
+.card .british {
+	padding-top: 100px;
+}
+
+.card .adidas {
+	padding-top: 18px;
+}
+
+.card .bmw {
+	width: 75%;
+}
+
+.card .russ {
+	width: 75%;
+}
+
+.card .north {
+	width: 75%;
+}
+
+.card .borjomi {
+	width: 75%;
+	padding-top: 60px;
+}
+
+.card .pic {
+	width: 50%;
+}
+
+.h-client {
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
